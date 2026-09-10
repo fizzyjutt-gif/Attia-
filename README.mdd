@@ -1,0 +1,30 @@
+# Guessing Game
+
+## Project Name
+Guessing Game
+
+## Language
+Python
+
+## Description
+A simple console-based number guessing game written in Python.
+
+The computer randomly generates a secret number between 1 and 100.
+The player has to guess the number.
+
+The program gives hints:
+- Too High – when the guess is greater than the secret number.
+- Too Low – when the guess is smaller than the secret number.
+- Correct – when the player guesses the secret number.
+
+The program also counts the number of attempts.
+
+## How to Run
+
+1. Make sure Python is installed on your computer.
+2. Clone or download this repository.
+3. Open the project folder in VS Code or a terminal.
+4. Run the following command:
+
+```bash
+python guessing_game.py
